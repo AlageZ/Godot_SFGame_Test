@@ -1,5 +1,6 @@
 # これは何
 - クソゲーコンペ用に作ってるゲームを試験的にHTML5向けビルドして公開しています
+- URL:https://alagez.github.io/Godot_SFGame_Test/
 - フィードバックはTwitter（[@Z_LAEGA](https://twitter.com/Z_LAEGA)）まで
 
 # 操作
